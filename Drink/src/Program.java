@@ -4,6 +4,12 @@ public class Program {
         Drink drink1=new Drink();
         drink1.name="Bloody Mary";
         drink1.price=5.48;
+        Ingredient ingredient1 = new Ingredient();
+        Ingredient ingredient2 = new Ingredient();
+        Ingredient ingredient3 = new Ingredient();
+        drink1.ingredient1 = ingredient1;
+        drink1.ingredient2 = ingredient2;
+        drink1.ingredient3 = ingredient3;
         Ingredient ingredient1=new ingredient();
         Ingredient ingredient2=new ingredient();
         Ingredient ingredient3=new ingredient();
